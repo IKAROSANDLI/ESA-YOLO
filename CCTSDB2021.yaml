@@ -1,0 +1,16 @@
+# dataset path
+path: /root/code/project/ultralytics/
+train: /home/temp/runs/lch/datasets/CCTSDB2021/images/train
+val: /home/temp/runs/lch/datasets/CCTSDB2021/images/val
+XS: /home/temp/runs/lch/datasets/CCTSDB2021/images/XS
+S: /home/temp/runs/lch/datasets/CCTSDB2021/images/S
+rain: /home/temp/runs/lch/datasets/CCTSDB2021/images/rain
+night: /home/temp/runs/lch/datasets/CCTSDB2021/images/night
+sunny: /home/temp/runs/lch/datasets/CCTSDB2021/images/sunny
+foggy: /home/temp/runs/lch/datasets/CCTSDB2021/images/foggy
+cloud: /home/temp/runs/lch/datasets/CCTSDB2021/images/cloud
+snow: /home/temp/runs/lch/datasets/CCTSDB2021/images/snow
+nc: 3
+
+# class names
+names: ['prohibitory', 'warning', 'mandatory']

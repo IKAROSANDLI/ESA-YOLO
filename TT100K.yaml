@@ -1,0 +1,14 @@
+# dataset path
+path: /root/code/project/yolov8/
+train: /home/temp/runs/lch/datasets/TT100K/images/train
+val: /home/temp/runs/lch/datasets/TT100K/images/val
+test: /home/temp/runs/lch/datasets/TT100K/images/test
+
+# number of classes
+nc: 45
+
+# class names
+names: ['pl80', 'p6', 'p5', 'pm55', 'pl60', 'ip', 'p11', 'i2r', 'p23', 'pg', 'il80', 'ph4',
+        'i4', 'pl70', 'pne', 'ph4.5', 'p12', 'p3', 'pl5', 'w13', 'i4l', 'pl30', 'p10', 'pn',
+        'w55', 'p26', 'p13', 'pr40', 'pl20', 'pm30', 'pl40', 'i2', 'pl120', 'w32', 'ph5',
+        'il60', 'w57', 'pl100', 'w59', 'il100', 'p19', 'pm20', 'i5', 'p27', 'pl50']
